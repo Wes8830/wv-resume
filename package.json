@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "repository for live, active resume",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wes8830/wv-resume.git"
+  },
+  "author": "Wes Vesprini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wes8830/wv-resume/issues"
+  },
+  "homepage": "https://wes8830.github.io/wv-resume/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
