@@ -4,7 +4,7 @@
   "description": "repository for live, active resume",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
