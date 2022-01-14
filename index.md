@@ -25,10 +25,10 @@
 - **Languages:** Familiarity with FQL, Django, Flask, Python, C, PostgreSQL, SQLite, Javascript, HTML, CSS, Markdown, JSON, XML
 
 # KEY ACHIEVEMENTS
-- Lead daily testing efforts and own development items originating from the meetings leading to the upcoming premier launch of the entire FOS product suite
+- Led daily testing efforts and owned development items originating necessary for the premier launch of the entire Front Office product suite
 - Planned and Managed efforts for the integration and assistance of developing 15+ Factset APIs/Services for use in the Portfolio Life Cycle
 - Successful integration and development of various data fetch sources providing robust data coverage for our end users
-- Manage the development and growth of the Portfolio Management Platform, a cornerstone within the PLC 
+- Manage the development and growth of the Portfolio Management Platform, a cornerstone within Front Office Solutions
 - Integration of a growing list of 5+ asset classes and subclasses into the PMP product and a major contributor integrating them into the PLC
 
 
