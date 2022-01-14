@@ -21,7 +21,7 @@
 
 # TECHNICAL SKILLS
 - **Frameworks & Methodologies:** Agile, Scrum, Scrumban, Prioritization, Delegation
-- **Technical Skills:** Jira, Github, FactSet APIs, Fiddler, Postman, VS Code, Notepad++, Figma, Mural, Excel/GoogleSheets
+- **Technical Skills:** Jira, Github, Git, FactSet APIs, Fiddler, Postman, VS Code, Notepad++, Figma, Mural, Excel/GoogleSheets
 - **Languages:** Familiarity with FQL, Django, Flask, Python, C, PostgreSQL, SQLite, Javascript, HTML, CSS, Markdown, JSON, XML
 
 # KEY ACHIEVEMENTS
