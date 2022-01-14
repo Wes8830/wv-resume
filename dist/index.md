@@ -67,7 +67,7 @@
 - BS in Economics, Minor in Models and Data 
 
 ## Certificates
-- January 2021 	        [HarvardX Verified Certificate for CS50 Introduction to Computer Science](https://courses.edx.org/certificates/44f08e5f4d5645f6baf08dc0c94f8cda)
-- Proj. Fall 2021 	    HarvardX Verified Professional Certificate Computer Science for Web Programming
-- Proj. Fall 2021       HarvardX Verified Certificate for CS50’s Web Programming with Python and JavaScript
+- January 2022 	    [HarvardX Professional Certificate Computer Science for Web Programming](https://credentials.edx.org/credentials/f8953d993a814ed1b98c214134a51add/)
+- January 2022      [HarvardX Verified Certificate for CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/625b5a07236944f686b43a7ca8df9b17)
+- January 2021 	    [HarvardX Verified Certificate for CS50 Introduction to Computer Science](https://courses.edx.org/certificates/44f08e5f4d5645f6baf08dc0c94f8cda)
 
