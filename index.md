@@ -22,7 +22,7 @@
 # TECHNICAL SKILLS
 - **Frameworks & Methodologies:** Agile, Scrum, Scrumban, Prioritization, Delegation
 - **Technical Skills:** Jira, Github, Git, FactSet APIs, Fiddler, Postman, VS Code, Notepad++, Figma, Mural, Excel/GoogleSheets
-- **Languages:** Familiarity with FQL, Django, Flask, Python, C, PostgreSQL, SQLite, Javascript, HTML, CSS, Markdown, JSON, XML
+- **Languages:** Familiarity with Django, Flask, Python, C, PostgreSQL, SQLite, Javascript, HTML, CSS, Markdown, JSON, XML
 
 # KEY ACHIEVEMENTS
 - Led daily testing efforts and owned development items originating necessary for the premier launch of the entire Front Office product suite
