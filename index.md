@@ -9,7 +9,7 @@
     </div>
     <div class="right"></div>
     <div class="left"></div>
-    <div class="center">1736 Beacon Street • Brookline, MA 02445 • 781-640-8486 • wes.vesprini@gmail.com</div>
+    <div class="center">67 Florence Street • Winchester, MA 01890 • 781-640-8486 • wes.vesprini@gmail.com</div>
     <div class="right"></div>
     <div class="left"></div>
     <div class="center"><a href="https://www.linkedin.com/in/wesley-vesprini-05bb1823/"><i class="fa fa-linkedin" style="font-size: 18px"></i></a>
