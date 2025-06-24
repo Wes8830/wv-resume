@@ -8,17 +8,15 @@
     </div>
     <div class="right"></div>
     <div class="left"></div>
-    <div class="center">67 Florence Street • Winchester, MA 01890  <a href="https://www.linkedin.com/in/wesley-vesprini-05bb1823/"><i class="fa fa-linkedin" style="font-size: 12px"></i></a>  781-640-8486 • wes.vesprini@gmail.com</div>
+    <div class="center"> 781-640-8486 | wes.vesprini@gmail.com | Winchester, MA</div>
     <div class="right"></div>
 </div>
 
----
+## KEY SKILLS
+Product Management * Team Leadership * Mentoring * Collaboration * Stakeholder Relations * Agile * Scrum * Lean * MVP Development * Jira
+Data Analysis * KPIs * Power BI * Excel * Jupyter Notebook * Figma * Mural * Postman
+Software Development * Vue JS * Django * Python * JavaScript * REST API * C * HTML * CSS * JSON * XML * Markdown
 
-## TECHNICAL SKILLS
-- **Frameworks & Methodologies:** Agile (Scrum, Scrumban), Lean, MVP Development
-- **Tools & Platforms:** Jira, Power BI, Figma, Mural, Excel, Postman, Jupyter Notebook
-- **Languages & Databases:** Python, Django, Flask, JavaScript, HTML, CSS, C, SQL (PostgreSQL, SQLite), JSON, XML, Markdown
-- **APIs & Data Integration:** FactSet APIs, RESTful API design/testing
 
 ## KEY ACHIEVEMENTS
 - Drove 100%+ YoY growth of next-gen product through retention-focused strategy and adoption by a demanding user base.
@@ -57,13 +55,9 @@
 
 
 ## EDUCATION & CERTIFICATES
-**Trinity College, College of Arts and Sciences, Class of  2011** | Hartford, CT
-- BS in Economics, Minor in Models and Data 
-
-**Certificates**
+- BS in Economics - Trinity College, Hartford, CT
 - Product Management Foundations - Product Institute, May 2023
 - [The Complete Guide to Django REST Framework and Vue JS, Udemy](https://www.udemy.com/certificate/UC-01578667-389d-4dbe-87a9-745d44236120/) - Udemy, October 2022
 - [Professional Certificate Computer Science for Web Programming](https://credentials.edx.org/credentials/f8953d993a814ed1b98c214134a51add/) - HarvardX, January 2022
-- [Verified Certificate for CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/625b5a07236944f686b43a7ca8df9b17) HarvardX, January 2022
-- [Verified Certificate for CS50 Introduction to Computer Science](https://courses.edx.org/certificates/44f08e5f4d5645f6baf08dc0c94f8cda) - HarvardX, January 2021
+- [CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/625b5a07236944f686b43a7ca8df9b17) HarvardX, January 2022
 
